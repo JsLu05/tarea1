@@ -1,0 +1,52 @@
+body{background-color: yellow;}
+.cara1{
+    background-color: black;
+    width: 1290px;
+    height: 580px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.cara2{
+    background-color: red;
+    width: 1230px;
+    height: 525px;
+    padding: 15px;
+    margin: 15px;
+}
+.cara3{
+    background-color: orange;
+    width: 1170px;
+    height: 470px;
+    padding: 15px;
+    margin: 15px;
+}
+.cara4{
+    background-color: yellow;
+    width: 1110px;
+    height: 415px;
+    padding: 15px;
+    margin: 15px;
+}
+.cara5{
+    background-color: green;
+    width: 1050px;
+    height: 360px;
+    padding: 15px;
+    margin: 15px;
+}
+.cara6{
+    background-color: blue;
+    width: 990px;
+    height: 305px;
+    padding: 15px;
+    margin: 15px;
+}
+.cara7{
+    background-color: violet;
+    width: 930px;
+    height: 250px;
+    padding: 15px;
+    margin: 15px;
+    
+}
